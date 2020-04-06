@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/bg_item_reminder"
+    android:layout_marginTop="300dp"
+    android:layout_marginBottom="20dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginRight="40dp">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:orientation="vertical">
+
+        <TextView
+
+            android:id="@+id/titlereminder"
+            android:layout_marginTop="3dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call someone"
+            android:textColor="#044278"
+            android:textSize="20sp" />
+        <TextView
+
+            android:id="@+id/datereminder"
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Today"
+            android:textColor="#ADADAD"
+            android:textSize="18sp"
+            android:textAllCaps="true"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/sortreminder"
+            android:layout_width="31dp"
+            android:layout_height="40dp"
+            android:src="@drawable/urgency3" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
