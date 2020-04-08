@@ -56,4 +56,4 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
             rDateDue = (TextView) itemView.findViewById(R.id.rDateDue);
         }
     }
-}
+
