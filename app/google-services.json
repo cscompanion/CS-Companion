@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647594876016",
+    "firebase_url": "https://cs-companion.firebaseio.com",
+    "project_id": "cs-companion",
+    "storage_bucket": "cs-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647594876016:android:d52cb58a0778f51e53e8b5",
+        "android_client_info": {
+          "package_name": "com.itp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647594876016-lmun4urhgl992gg0smd85cfbofom71q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF0eh0TNm2n01DlL8wtkxgX6mJMNlbbMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647594876016-lmun4urhgl992gg0smd85cfbofom71q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
