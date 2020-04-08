@@ -17,7 +17,7 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
     Context context;
     ArrayList<remindersDatabase> remindersDatabase;
 
-    public RemindersAdapter(Context c, ArrayList<remindersDatabase> p){
+    public RemindersAdapter(Context c, ArrayList<remindersDatabase> p) {
         context = c;
         remindersDatabase = p;
     }
@@ -43,7 +43,7 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
         return remindersDatabase.size();
     }
 
-    class MyViewHolder extends RecyclerView.ViewHolder{
+    class MyViewHolder extends RecyclerView.ViewHolder {
 
         TextView rCategory, rDescription, rUrgency, id, rDateDue;
 
@@ -56,4 +56,5 @@ public class RemindersAdapter extends RecyclerView.Adapter<RemindersAdapter.MyVi
             rDateDue = (TextView) itemView.findViewById(R.id.rDateDue);
         }
     }
+}
 
