@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 70,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "Nytimes.com"
+},
+"author": null,
+"title": "Coronavirus Live Updates: Trump Claims ‘Total’ Authority as States Make Pacts for Reopening - The New York Times",
+"description": "Governors on the East and West Coasts formed alliances to coordinate future action. The International Monetary Fund issued a stark warning about economic fallout from the virus.",
+"url": "https://www.nytimes.com/2020/04/14/us/coronavirus-updates-usa.html",
+"urlToImage": "https://www.nytimes.com/newsgraphics/2020/04/09/corona-virus-social-images-by-section/assets/US_promo.jpg?u=1586869162560",
+"publishedAt": "2020-04-14T12:44:16Z",
+"content": "This disease has challenged everything that we believed was right six weeks ago. Its different than anything weve seen before, and maybe the way weve taken care of things is not the right way of doing it. There is a lively and healthy debate, that I think is … [+4467 chars]"
+},
+{
+"source": {
+"id": "cnbc",
+"name": "CNBC"
+},
+"author": "Silvia Amaro",
+"title": "Coronavirus live updates: WHO says 'certainly not seeing the peak yet,' Spain's infection rate slows - CNBC",
+"description": "Covid-19 has infected more than 1,929,900 people around the world as of Tuesday, killing at least 120,449 people.",
+"url": "https://www.cnbc.com/2020/04/14/coronavirus-live-updates.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106469904-1585742001969gettyimages-1208743721.jpeg?v=1585742039",
+"publishedAt": "2020-04-14T12:29:11Z",
+"content": "This is CNBC's live blog covering all the latest news on the coronavirus outbreak. All times below are in Eastern time. This blog will be updated throughout the day as the news breaks. \r\n<ul><li>Global cases: More than 1,929,900</li><li>Global deaths: At leas… [+7726 chars]"
+},
+{
+"source": {
+"id": "financial-times",
+"name": "Financial Times"
+},
+"author": null,
+"title": "JPMorgan braces for losses from ‘fairly severe’ recession - Financial Times",
+"description": "Net income falls by 69% in first quarter as America’s biggest bank ramps up loan provisions",
+"url": "https://www.ft.com/content/cca3e240-203f-445e-9875-f341c21b1311",
+"urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbdd2cb6c-4a16-43b1-8e7e-1ca08dbd0589.jpg?source=next-opengraph&fit=scale-down&width=900",
+"publishedAt": "2020-04-14T12:25:03Z",
+"content": "JPMorgan Chase’s profits fell by 69 per cent in the first quarter as America’s biggest bank prepared for a “fairly severe recession” by dramatically ramping up loan loss provisions while the global economy reels from the economic fallout of coronavirus.\r\nThe … [+2906 chars]"
+},
+{
+"source": {
+"id": "cnbc",
+"name": "CNBC"
+},
+"author": "Fred Imbert",
+"title": "Wells Fargo reports first-quarter EPS of just 1 cent as it sets aside more money for credit losses - CNBC",
+"description": "Wells Fargo's quarterly results were the first ones since the coronavirus outbreak paralyzed the global economy.",
+"url": "https://www.cnbc.com/2020/04/14/wells-fargo-reports-first-quarter-eps-of-just-1-cent-as-it-sets-aside-more-money-for-credit-losses.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106351987-1579803499561rts1hcz0.jpg?v=1579803586",
+"publishedAt": "2020-04-14T12:21:04Z",
+"content": "Wells Fargo reported first-quarter earnings results that were well below expectations as the company set aside money for credit losses amid the coronavirus pandemic. \r\nThe banking giant reported a profit of just 1 cent per share while analysts polled by Refin… [+2207 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Reuters Editorial",
+"title": "Amazon fires two employees critical of warehouse working conditions - Reuters",
+"description": "Amazon.com Inc said on Tuesday it terminated two employees, who criticized the working conditions at the e-commerce giant's warehouses in the wake of the coronavirus pandemic, for \"repeatedly violating internal policies\".",
+"url": "https://www.reuters.com/article/us-health-coronavirus-amazon-com-warehou-idUSKCN21W0UI",
+"urlToImage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200414&t=2&i=1514989604&w=1200&r=LYNXNPEG3D0KA",
+"publishedAt": "2020-04-14T11:26:26Z",
+"content": "(Reuters) - Amazon.com Inc (AMZN.O) said on Tuesday it terminated two employees, who criticized the working conditions at the e-commerce giant’s warehouses in the wake of the coronavirus pandemic, for “repeatedly violating internal policies”. \r\nThe terminatio… [+1531 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Marketwatch.com"
+},
+"author": "Tomi Kilgore",
+"title": "Johnson & Johnson's stock surges after earnings beat, raised dividend - MarketWatch",
+"description": "",
+"url": "http://www.marketwatch.com/story/johnson-johnsons-stock-surges-after-earnings-beat-raised-dividend-2020-04-14",
+"urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+"publishedAt": "2020-04-14T10:44:00Z",
+"content": "Shares of Johnson &amp; Johnson\r\n JNJ, \r\n -1.03%\r\nrose 4.8% in premarket trading Tuesday, after the drug and consumer products company reported first-quarter profit and sales that rose above expectations and boosted its dividend, offsetting a downbeat full-ye… [+1165 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nytimes.com"
+},
+"author": "David Gelles",
+"title": "‘This Is Going to Kill Small-Town America’ - The New York Times",
+"description": "Once the coronavirus reached rural Bristol, N.H., the effect on the local economy was devastating.",
+"url": "https://www.nytimes.com/2020/04/14/business/coronavirus-small-towns.html",
+"urlToImage": "https://static01.nyt.com/images/2020/04/10/business/00virus-newhampshire-1-copy/00virus-newhampshire-1-copy-facebookJumbo-v3.jpg",
+"publishedAt": "2020-04-14T10:13:15Z",
+"content": "Were not rich by any means, Mr. Coates said. Were pretty poor, in fact.\r\nOn April 3, the bad news started to spread around town. Freudenberg announced it was firing more than 100 people, shutting down its manufacturing of bonded piston seals and looking for a… [+1134 chars]"
+},
+{
+"source": {
+"id": "the-hill",
+"name": "The Hill"
+},
+"author": "Alex Gangitano",
+"title": "Food supply worries grow after outbreak closes Smithfield meat plant | TheHill - The Hill",
+"description": "Pork processor Smithfield Foods's decision to shut down a major U.S. plant after a coronavirus outbreak among workers is putting a spotlight on the food supply chain during the pandemic.",
+"url": "https://thehill.com/business-a-lobbying/business-a-lobbying/492625-food-supply-worries-grow-after-outbreak-closes",
+"urlToImage": "https://thehill.com/sites/default/files/coronavirus_pork_031420getty_smithfield.jpg",
+"publishedAt": "2020-04-14T10:00:30Z",
+"content": "Pork processor Smithfield Foods's decision to shut down a major U.S. plant after a coronavirus outbreak among workers is putting a spotlight on the food supply chain during the pandemic.\r\nConsumer and worker safety groups say the Smithfield incident highlight… [+8342 chars]"
+},
+{
+"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Lisa Riordan Seville, Adiel Kaplan, Samantha Springer, Cameron Oakes",
+"title": "As deaths mount, delivery workers say they're kept in the dark over who's sick - NBCNews.com",
+"description": "COVID-19 is spreading through the ranks of the nation's delivery workers, but FedEx and UPS are not sharing information about who is sick, employees say.",
+"url": "https://www.nbcnews.com/health/health-news/deaths-mount-delivery-workers-say-they-re-kept-dark-over-n1181436",
+"urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_15/3304426/200410-ups-coronavirus-delivery-ew-432p_b0a7326a772171ef11a75fe3e5b17b61.nbcnews-fp-1200-630.jpg",
+"publishedAt": "2020-04-14T10:00:00Z",
+"content": "Rumors about the manager with the virus started to spread around Worldport, UPS' sprawling air hub in Louisville, Kentucky, earlier this month. Employees texted one another to ask whether they'd heard about Roml Ellis, the well-liked 55-year-old who worked th… [+8218 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Bitcoinist.com"
+},
+"author": null,
+"title": "A CME Gap at $3,500 Leaves Bitcoin Vulnerable to a Colossal Correction - Bitcoinist",
+"description": "The Bitcoin price has a CME gap at $3,500, and there exists a possibility that the dominant cryptocurrency may retest the $3,000 region.",
+"url": "https://bitcoinist.com/a-cme-gap-at-3500-leaves-bitcoin-vulnerable-to-a-colossal-correction/",
+"urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/04/photo-1564826220555-39b9012d6f02-1920x1280.jpg",
+"publishedAt": "2020-04-14T08:50:59Z",
+"content": "The Bitcoin price has a CME gap at $3,500, and given the historical tendency of BTC to close it, there exists a possibility that the dominant cryptocurrency may retest the $3,000 region.\r\nEarlier this month, former International Monetary Fund (IMF) economist … [+2759 chars]"
+},
+{
+"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Sebastian Herrera, Colin Kellaher",
+"title": "EBay Names Walmart Executive as Its New CEO - The Wall Street Journal",
+"description": "Jamie Iannone, who will join eBay on April 27, previously worked for the company between 2001 and 2009",
+"url": "https://www.wsj.com/articles/ebay-names-walmart-executive-as-its-new-ceo-11586793984",
+"urlToImage": "https://images.wsj.net/im-175665/social",
+"publishedAt": "2020-04-14T07:35:09Z",
+"content": "EBay Inc. named Jamie Iannone its new chief executive Monday, in a move that will provide the e-commerce pioneer an industry veteran as it tries to reignite growth during a tumultuous period.\r\nMr. Iannone, who will join eBay on April 27, was most recently the… [+274 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gamespot.com"
+},
+"author": "Hayley Williams",
+"title": "Former Disney CEO Bob Iger Is Back To See Company Through Crisis - GameSpot",
+"description": "The global pandemic has destroyed any chance of former Disney CEO being able to gracefully step aside for his successor.",
+"url": "https://www.gamespot.com/articles/former-disney-ceo-bob-iger-is-back-to-see-company-/1100-6475997/",
+"urlToImage": "https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1597/15975876/3654823-blackwidowmovie.jpeg",
+"publishedAt": "2020-04-14T06:49:00Z",
+"content": "In February this year Bob Iger, the CEO who guided Disney as it became an entertainment behemoth, announced he was stepping down to let Bob Chapek take the reigns. But now, as Disney closes parks and hotels worldwide in the face of the COVID-19 (coronavirus) … [+2619 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo.com"
+},
+"author": "Neer Varshney",
+"title": "Why Tesla's Stock Traded 17% Higher On Monday - Yahoo Finance",
+"description": "Tesla Inc. (NASDAQ: TSLA) shares added 17% in the regular session and the after-hours session on Monday to trade significantly above the $600 mark.Automaker Outperforms Wider Market The sharp surge came as the wider market saw a slump. The S&P 500 Index close…",
+"url": "https://finance.yahoo.com/news/why-teslas-stock-traded-17-033322516.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/Vo1kBAyu8KhGuI.fcufb.g--~B/aD00MDA7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Benzinga/9333b19cfc487531415881b168f3a0b9",
+"publishedAt": "2020-04-14T06:47:31Z",
+"content": "Tesla Inc. (NASDAQ: TSLA) shares added 17% in the regular session and the after-hours session on Monday to trade significantly above the $600 mark.\r\nAutomaker Outperforms Wider Market\r\nThe sharp surge came as the wider market saw a slump. The S&amp;P 500 Inde… [+2229 chars]"
+},
+{
+"source": {
+"id": "cnbc",
+"name": "CNBC"
+},
+"author": "Matthew J. Belvedere",
+"title": "Dow futures jump 400 points ahead of earnings season - msnNOW",
+"description": "Dow futures were pointing to a big gain at Tuesday's open a day after President Donald Trump expressed hope about research for treatment of the coronavirus",
+"url": "https://www.cnbc.com/2020/04/07/dow-set-for-huge-jump-after-rocketing-1600-points-higher.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106478186-1586257980545gettyimages-1208533652.jpeg?v=1586258024",
+"publishedAt": "2020-04-14T06:00:00Z",
+"content": "Trump, at Monday evening's White House coronavirus briefing, said that 10 therapeutics are in active trials. Fifteen other potential treatments are \"advancing rapidly\" toward clinical trials, he added. Trump also said, \"Stay inside and let's win this and let'… [+4437 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Scmp.com"
+},
+"author": null,
+"title": "China’s imports, exports dropped again in March weighed down by coronavirus - Better Life",
+"description": "Exports fell by 6.6 per cent compared to the same period a year earlier, while imports dropped 0.9 per cent from a year earlier.",
+"url": "https://www.scmp.com/economy/china-economy/article/3079760/coronavirus-chinas-exports-down-35-cent-march-yuan-terms",
+"urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/14/ade7f776-7d33-11ea-8736-98edddd9b5ca_image_hires_121718.jpg?itok=DJ8MkaeR&v=1586837851",
+"publishedAt": "2020-04-14T05:54:23Z",
+"content": "Published: 10:32am, 14 Apr, 2020\r\nUpdated: 12:17pm, 14 Apr, 2020"
+},
+{
+"source": {
+"id": null,
+"name": "Nytimes.com"
+},
+"author": null,
+"title": "Stock Markets in Asia Rise on Positive Chinese Trade Data: Live Updates - The New York Times",
+"description": "The latest on stock market and business news during the coronavirus outbreak.",
+"url": "https://www.nytimes.com/2020/04/14/business/stocks-today-coronavirus.html",
+"urlToImage": "https://www.nytimes.com/newsgraphics/2020/04/09/corona-virus-social-images-by-section/assets/Business_promo.jpg?u=1586843236724",
+"publishedAt": "2020-04-14T05:51:40Z",
+"content": "Labor advocates like Marcy Goldstein-Gelb, the co-executive director of the National Council for Occupational Safety and Health, say the new guidelines may encourage employers to pressure workers to return to their jobs too soon, often without adequate protec… [+1075 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Gizmodo.com"
+},
+"author": "Tom McKay",
+"title": "SoftBank's Vision Fund Not Feeling So Good, Will Take Nearly $17 Billion Hit Amid Pandemic - Gizmodo",
+"description": "Japanese investment titan SoftBank disclosed on Monday that it expects to take up to a $16.7 billion loss for the past year in its Vision Fund, a key backer of huge, growth-at-all-costs tech firms like WeWork and Uber. According to the Wall Street Journal, th…",
+"url": "https://gizmodo.com/softbanks-vision-fund-not-feeling-so-good-will-take-ne-1842851908",
+"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/t0jeixfcxjrbktfaizix.jpg",
+"publishedAt": "2020-04-14T05:01:42Z",
+"content": "Japanese investment titan SoftBank disclosed on Monday that it expects to take up to a $16.7 billion loss for the past year in its Vision Fund, a key backer of huge, growth-at-all-costs tech firms like WeWork and Uber. According to the Wall Street Journal, th… [+4097 chars]"
+},
+{
+"source": {
+"id": "usa-today",
+"name": "USA Today"
+},
+"author": "Jordan Culver",
+"title": "'Got more beer!': 93-year-old Pennsylvania woman receives coronavirus quarantine gift from Molson Coors - USA TODAY",
+"description": "Molson Coors delivered 150 beers on Monday to a Pennsylvania woman who gained national attention by asking for more beer while social distancing.",
+"url": "https://www.usatoday.com/story/news/nation/2020/04/13/molson-coors-light-woman-pennsylvania-photo-coronavirus/2987474001/",
+"urlToImage": "https://www.gannett-cdn.com/presto/2020/04/14/USAT/d3f83774-7d1f-4582-af03-7263e643788d-Olive_1.png?crop=647,364,x1,y172&width=1600&height=800&fit=bounds",
+"publishedAt": "2020-04-14T04:26:31Z",
+"content": "We answer the often searched question: \"What are the symptoms of coronavirus versus the flu?\"\r\nUSA TODAY\r\nA Pennsylvania woman gained national attention by asking for more beer while practicing social distancing amid the coronavirus crisis.\r\nOn Monday, she go… [+1746 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Nj.com"
+},
+"author": "Nicolette Accardi | NJ Advance Media for NJ.com",
+"title": "Amazon Fresh, Whole Foods now have invite-only policy for grocery delivery - NJ.com",
+"description": "New customers must first sign up for an invitation to shop",
+"url": "https://www.nj.com/business/2020/04/amazon-fresh-whole-foods-now-have-invite-only-policy-for-grocery-delivery.html",
+"urlToImage": "https://www.nj.com/resizer/MUWHPwux5KARXTYEao8OKRwIXXg=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/YNVQEAWYNVDRTJLCS5QDOJYZBQ.jpg",
+"publishedAt": "2020-04-14T04:22:00Z",
+"content": "Amazon announced it is temporarily requiring all new Amazon Fresh and Whole Foods customers to sign up for an invitation to use the companys grocery delivery and pickup services.\r\nAnyone who has never placed an Amazon Fresh or Whole Foods Market order must no… [+1401 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Marketwatch.com"
+},
+"author": "Mike Murphy",
+"title": "U.S. stock futures rise as brutal earnings season about to begin - MarketWatch",
+"description": "",
+"url": "http://www.marketwatch.com/story/us-stock-futures-inch-up-as-brutal-earnings-season-about-to-begin-2020-04-13",
+"urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+"publishedAt": "2020-04-14T03:34:00Z",
+"content": "U.S. stock index futures rose late Monday, as Wall Street braced for an ugly earnings season due to the coronavirus pandemic. Dow Jones Industrial Average futures\r\n YM00, \r\n +1.61%\r\nwere last up around 288 points, or 1.2%, while S&amp;P 500 futures\r\n ES00, \r\n… [+593 chars]"
+}
+]
+}
