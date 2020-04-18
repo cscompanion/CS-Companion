@@ -1,0 +1,42 @@
+
+import java.util.ArrayList;
+
+public class NewsFeed
+{
+    private ArrayList<MessagePost> messages;
+    private ArrayList<PhotoPost> photos;
+
+
+    public NewsFeed()
+    {
+        messages = new ArrayList<MessagePost>();
+        photos = new ArrayList<PhotoPost>();
+    }
+
+    public void addMessagePost(MessagePost message)
+    {
+        messages.add(message);
+    }
+
+
+    public void addPhotoPost(PhotoPost photo)
+    {
+        photos.add(photo);
+    }
+
+
+    public void show()
+    {
+        // display all text posts
+        for(MessagePost message : messages) {
+            message.display();
+            System.out.println();   // empty line between posts
+        }
+
+        // display all photos
+        for(PhotoPost photo : photos) {
+            photo.display();
+            System.out.println();   // empty line between posts
+        }
+    }
+}
