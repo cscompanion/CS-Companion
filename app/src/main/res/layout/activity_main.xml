@@ -61,7 +61,7 @@
         android:layout_below="@id/password"
         android:layout_marginStart="85dp"
         android:layout_marginLeft="85dp"
-        android:layout_marginTop="55dp"
+        android:layout_marginTop="60dp"
         android:background="@drawable/no_background"
         android:text="Forgot password? Click here!"
         android:textColor="#929292"

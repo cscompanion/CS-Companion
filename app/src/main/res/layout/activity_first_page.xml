@@ -9,7 +9,6 @@
     android:background="@drawable/bg_firstpage"
     tools:context=".MainActivity">
 
-
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -17,6 +16,7 @@
         android:layout_marginRight="10dp"
         android:background="@drawable/top"
         android:layout_height="250dp">
+
 
         <LinearLayout
             android:orientation="horizontal"
@@ -28,6 +28,14 @@
                 android:orientation="vertical"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="250dp"
+                    android:src="@drawable/settings"
+                    />
 
                 <TextView
                     android:id="@+id/titlepage"
@@ -44,20 +52,15 @@
 
         </LinearLayout>
 
-        <View
-            android:layout_marginTop="20dp"
-            android:layout_width="match_parent"
-            android:background="#131E69"
-            android:layout_height="1dp" />
-
     </LinearLayout>
+
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/ourdoes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="-60dp"
+        android:layout_marginTop="40dp"
         android:layout_marginRight="16dp">
 
     </androidx.recyclerview.widget.RecyclerView>
@@ -85,6 +88,11 @@
         android:textAlignment="center"
         android:textColor="#FFF"
         android:textSize="38sp" />
+   <LinearLayout
+       android:layout_height="wrap_content"
+       android:layout_width="wrap_content">
+
+   </LinearLayout>
 
 
 </LinearLayout>
