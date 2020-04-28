@@ -83,8 +83,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="26dp"
         android:layout_marginRight="26dp"
-        android:layout_marginBottom="87dp"
-        android:drawableTop="@drawable" />
+        android:layout_marginBottom="87dp" />
 
     <Button
         android:id="@+id/button32"
@@ -96,8 +95,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="19dp"
         android:layout_marginRight="19dp"
-        android:layout_marginBottom="346dp"
-        android:drawableTop="@drawable/" />
+        android:layout_marginBottom="346dp" />
 
     <Button
         android:id="@+id/button29"
@@ -109,7 +107,6 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="22dp"
         android:layout_marginRight="22dp"
-        android:layout_marginBottom="209dp"
-        android:drawableTop="@drawable" />
+        android:layout_marginBottom="209dp" />
 
 </RelativeLayout>
