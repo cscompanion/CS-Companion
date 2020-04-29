@@ -67,32 +67,32 @@ public class SergeyevaSelidova extends AppCompatActivity {
         });
     }
     public void openpm() {
-        Intent intent = new Intent(this, SSPortfolioMaster.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, SSPortfolioMaster.class);
+//        startActivity(intent);
     }
     public void openkyc() {
-        Intent intent = new Intent(this, SergeyevaInfo.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, SergeyevaInfo.class);
+//        startActivity(intent);
     }
     public void openNewClients() {
-        Intent intent = new Intent(this, NewClients.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, NewClients.class);
+//        startActivity(intent);
     }
     public void openTrans() {
-        Intent intent = new Intent(this, SergeyevaClientTrans.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, SergeyevaClientTrans.class);
+//        startActivity(intent);
     }
     public void openHome() {
-        Intent intent = new Intent(this, client.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, client.class);
+//        startActivity(intent);
     }
     public void openMarkets() {
-        Intent intent = new Intent(this, MarketsStocks.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, MarketsStocks.class);
+//        startActivity(intent);
     }
     public void openNews() {
-        Intent intent = new Intent(this, News.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, News.class);
+//        startActivity(intent);
     }
 }
 

@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.itp.myapplication.activity.NewsSection;
+import com.itp.myapplication.model.News;
+
 public class DupuisLouis extends AppCompatActivity {
     private Button button;
     @Override
@@ -65,31 +68,31 @@ public class DupuisLouis extends AppCompatActivity {
         });
     }
     public void openkyc() {
-        Intent intent = new Intent(this, DupuisInfo.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, DupuisInfo.class);
+//        startActivity(intent);
     }
     public void openpm() {
-        Intent intent = new Intent(this, DLPortfolioMaster.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, DLPortfolioMaster.class);
+//        startActivity(intent);
     }
     public void openTrans() {
-        Intent intent = new Intent(this, DLClientTrans.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, DLClientTrans.class);
+//        startActivity(intent);
     }
     public void openNewClients() {
-        Intent intent = new Intent(this, NewClients.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, NewClients.class);
+//        startActivity(intent);
     }
     public void openHome() {
-        Intent intent = new Intent(this, client.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, client.class);
+//        startActivity(intent);
     }
     public void openMarkets() {
-        Intent intent = new Intent(this, MarketsStocks.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, MarketsStocks.class);
+//        startActivity(intent);
     }
     public void openNews() {
-        Intent intent = new Intent(this, News.class);
+        Intent intent = new Intent(this, NewsSection.class);
         startActivity(intent);
     }
 }
