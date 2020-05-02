@@ -9,7 +9,7 @@
 
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/button1"
         style="@style/Widget.AppCompat.Button.Borderless.Colored"
         android:layout_width="57dp"
         android:layout_height="62dp"
@@ -22,7 +22,7 @@
         android:drawableTop="@drawable/homebutton" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/button2"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="57dp"
         android:layout_height="62dp"
@@ -35,7 +35,7 @@
         android:drawableTop="@drawable/cientsbutton" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button3"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -48,7 +48,7 @@
         android:drawableTop="@drawable/plusbutton" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/button4"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="57dp"
         android:layout_height="62dp"
@@ -61,7 +61,7 @@
         android:drawableTop="@drawable/newsbutton" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/button5"
         style="@style/Widget.AppCompat.Button.Borderless"
         android:layout_width="57dp"
         android:layout_height="62dp"
@@ -81,9 +81,10 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="18dp"
-        android:layout_marginLeft="18dp"
-        android:layout_marginTop="190dp" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="184dp" />
 
     <Button
         android:id="@+id/button7"
@@ -93,9 +94,10 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginBottom="400dp" />
+        android:layout_marginBottom="408dp" />
 
     <Button
         android:id="@+id/button10"
@@ -105,9 +107,10 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="21dp"
-        android:layout_marginLeft="21dp"
-        android:layout_marginBottom="318dp" />
+        android:layout_centerInParent="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginLeft="23dp"
+        android:layout_marginBottom="329dp" />
 
     <Button
         android:id="@+id/button11"
@@ -117,6 +120,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
         android:layout_marginTop="425dp"
         android:layout_marginEnd="13dp"
         android:layout_marginRight="13dp" />

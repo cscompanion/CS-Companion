@@ -1,68 +1,80 @@
 package com.itp.myapplication;
 
+
+import android.Manifest;
+import android.annotation.SuppressLint;
+import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.net.Uri;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.widget.ArrayAdapter;
+
+import android.widget.EditText;
+import android.widget.ListView;
+
+
 import androidx.annotation.NonNull;
+
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ActivityCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.os.Bundle;
-import android.widget.ListView;
-import android.widget.Toast;
 
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
-import com.google.firebase.database.core.Context;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.itp.myapplication.databinding.ActivityFirstPageBinding;
 
-import android.widget.TextView;
 import java.util.ArrayList;
 
-public class FirstPage extends AppCompatActivity {
-    TextView titlepage, endpage;
-    DatabaseReference reference;
-    RecyclerView ourdoes;
-    ArrayList<remindersDatabase> list;
-    RemindersAdapter remindersAdapter;
-    @Override
+import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.Toast;
+
+
+public class FirstPage extends AppCompatActivity implements View.OnClickListener {
+    private FirebaseAuth mAuth;
+    private ActivityFirstPageBinding mBinding;
+
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_page);
-
-        titlepage = findViewById(R.id.titlepage);
-        endpage = findViewById(R.id.endpage);
-
-        //working with data
-        ourdoes = findViewById(R.id.ourdoes);
-        ourdoes.setLayoutManager(new LinearLayoutManager(this));
-        list = new ArrayList<remindersDatabase>();
-
-        //get data from firebase
-        reference = FirebaseDatabase.getInstance().getReference().child("Reminders");
-        reference.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                //set code to retrive data and replace layout
-                for(DataSnapshot dataSnapshot1: dataSnapshot.getChildren())
-                {
-                    remindersDatabase p = dataSnapshot1.getValue(remindersDatabase.class);
-                    list.add(p);
-                }
-                remindersAdapter = new RemindersAdapter(FirstPage.this, list);
-                ourdoes.setAdapter(remindersAdapter);
-                remindersAdapter.notifyDataSetChanged();
+        mBinding = ActivityFirstPageBinding.inflate(getLayoutInflater());
+        setContentView(mBinding.getRoot());
+        mBinding.signOutButton.setOnClickListener((View.OnClickListener) this);
 
 
-            }
 
-            @Override
-            public void onCancelled(@NonNull DatabaseError databaseError) {
-                // set code to show an error
+    }
 
-                Toast.makeText(getApplicationContext(), "No Data", Toast.LENGTH_SHORT).show();
 
-            }
-        });
+    private void signOut() {
+        mAuth.signOut();
+        updateUI(null);
+        startActivity(new Intent(this, EmailPasswordActivity.class));
+    }
+
+    private void updateUI(FirebaseUser user) {
+    }
+
+    public void onClick(View v) {
+        int i = v.getId();
+        if (i == R.id.signOutButton) {
+            signOut();
+        }
+    }
+    private void openEmailPasswordActivity()
+    {
+        Intent intent = new Intent(this, EmailPasswordActivity.class);
+        startActivity(intent);
     }
 }

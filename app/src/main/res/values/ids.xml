@@ -5,4 +5,8 @@
     <item name="rUrgency" type="id" />
     <item name="id" type="id" />
     <item name="rDateDue" type="id" />
+    <item name="phoneFactor1" type="id" />
+    <item name="phoneFactor2" type="id" />
+    <item name="endpage" type="id" />
+    <item name="titlepage" type="id" />
 </resources>
