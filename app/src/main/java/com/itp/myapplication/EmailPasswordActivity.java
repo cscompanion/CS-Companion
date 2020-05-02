@@ -73,7 +73,7 @@ public class EmailPasswordActivity extends AppCompatActivity implements View.OnC
                 return;
             }
 
-final Intent firsPageIntent = new Intent(this, FirstPage.class);
+final Intent firstPageIntent = new Intent(this, FirstPage.class);
             // [START sign_in_with_email]
             mAuth.signInWithEmailAndPassword(email, password)
                     .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
@@ -85,7 +85,7 @@ final Intent firsPageIntent = new Intent(this, FirstPage.class);
                                 Log.d(TAG, "signInWithEmail:success");
                                 FirebaseUser user = mAuth.getCurrentUser();
                                 updateUI(user);
-                                startActivity(firsPageIntent);
+                                startActivity(firstPageIntent);
                             } else {
                                 // If sign in fails, display a message to the user.
                                 Log.w(TAG, "signInWithEmail:failure", task.getException());
@@ -108,7 +108,7 @@ final Intent firsPageIntent = new Intent(this, FirstPage.class);
                     });
 
             // [END sign_in_with_email]
-          //  startActivity(new Intent(this, MainActivity.class));
+
         }
 
 
